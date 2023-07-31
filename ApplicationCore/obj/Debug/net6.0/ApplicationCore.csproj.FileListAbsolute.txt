@@ -1,0 +1,12 @@
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\ApplicationCore\bin\Debug\net6.0\ApplicationCore.deps.json
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\ApplicationCore\bin\Debug\net6.0\ApplicationCore.dll
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\ApplicationCore\bin\Debug\net6.0\ApplicationCore.pdb
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.AssemblyReference.cache
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\ApplicationCore\obj\Debug\net6.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfoInputs.cache
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfo.cs
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.CoreCompileInputs.cache
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\ApplicationCore\obj\Debug\net6.0\ApplicationCore.dll
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\ApplicationCore\obj\Debug\net6.0\refint\ApplicationCore.dll
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\ApplicationCore\obj\Debug\net6.0\ApplicationCore.pdb
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\ApplicationCore\obj\Debug\net6.0\ref\ApplicationCore.dll

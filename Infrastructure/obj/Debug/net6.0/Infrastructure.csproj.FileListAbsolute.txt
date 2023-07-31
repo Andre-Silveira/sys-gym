@@ -1,0 +1,15 @@
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\Infrastructure\bin\Debug\net6.0\ApplicationCore.dll
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\Infrastructure\bin\Debug\net6.0\ApplicationCore.pdb
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+G:\Cursos\Pós Graduação - Engenharia de Software\Projeto Integrado\Backend\SysGym\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
