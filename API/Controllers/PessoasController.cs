@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers;
 
+[Route("api/[controller]")]
+[ApiController]
 public class PessoasController : ControllerBase
 {
     private static readonly NLog.Logger logger = NLog.LogManager.GetCurrentClassLogger();
@@ -90,4 +92,33 @@ public class PessoasController : ControllerBase
         }
     }
 
+    [HttpGet("BloquearAluno/{id}")]
+    public IActionResult BloquearAluno(string id)
+    {
+        try
+        {
+            _alunoService.BloquearAluno(id);
+            return Ok();
+        }
+        catch (Exception e)
+        {
+            logger.Error(e, "BuscarAlunos");
+            throw;
+        }
+    }
+
+     [HttpGet("DesbloquearAluno/{id}")]
+    public IActionResult DesbloquearAluno(string id)
+    {
+        try
+        {
+            _alunoService.DesbloquearAluno(id);
+            return Ok();
+        }
+        catch (Exception e)
+        {
+            logger.Error(e, "BuscarAlunos");
+            throw;
+        }
+    }
 }

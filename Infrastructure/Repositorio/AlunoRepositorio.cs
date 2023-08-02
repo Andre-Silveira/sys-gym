@@ -96,4 +96,20 @@ public class AlunoRepositorio : IAlunoRepositorio
         _alunoCollection.DeleteOne(filtro);
     }
 
+    public void BloquearAluno(string id)
+    {
+        var filtro = Builders<Alunos>.Filter.Eq(x => x.Id, ObjectId.Parse(id));
+        var update = Builders<Alunos>.Update.Set(x => x.Ativo, true);
+                           
+        _alunoCollection.UpdateOne(filtro, update);
+    }
+
+    public void DesbloquearAluno(string id)
+    {
+        var filtro = Builders<Alunos>.Filter.Eq(x => x.Id, ObjectId.Parse(id));
+        var update = Builders<Alunos>.Update.Set(x => x.Ativo, false);
+                           
+        _alunoCollection.UpdateOne(filtro, update);
+    }
+
 }

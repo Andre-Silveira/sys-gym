@@ -31,9 +31,19 @@ public class AlunoService : IAlunoService
         _alunoRepositorio.CadastrarAluno(aluno);
     }
 
-    
+
     public void DeletarAluno(string id)
     {
         _alunoRepositorio.DeletarAluno(id);
+    }
+
+    public void BloquearAluno(string id)
+    {
+        _alunoRepositorio.BloquearAluno(id);
+    }
+
+    public void DesbloquearAluno(string id)
+    {
+        _alunoRepositorio.DesbloquearAluno(id);
     }
 }
