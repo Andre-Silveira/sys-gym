@@ -8,7 +8,6 @@ public class Aluno
     public string CPF { get; set; }
     public string Endereco { get; set; }
     public List<Aula> Aula { get; set; }
-    public decimal Mensalidade { get; set; }
     public DateTime DataNascimento { get; set; }
     public bool Ativo { get; set; }
 
